@@ -13,3 +13,7 @@ to provide simple exaple to understand git
 deployment can be any web server
 
 ## How to contribute
+
+## copyright
+
+2020
